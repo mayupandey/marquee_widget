@@ -1,7 +1,7 @@
 name: marquee_widget
 description: "This is a Flutter package that can enable you turn any Widget into a Marquee."
 version: 0.0.1
-homepage:
+homepage: https://github.com/mayupandey/marquee_widget
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
